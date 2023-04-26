@@ -32,7 +32,6 @@ Server: Node JS, Express JS
 
 Database: Mongo DB
 
-Vá para o diretório do projeto
 
 
 ## Para rodar:
